@@ -1,0 +1,22 @@
+﻿  glad.c
+  multiplylights.cpp
+e:\visual2017\learninggl\learninggl\shader_m.h(56): warning C4101: “e”: 未引用的局部变量
+e:\visual2017\learninggl\learninggl\multiplylights.cpp(198): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\visual2017\learninggl\learninggl\multiplylights.cpp(233): warning C4305: “参数”: 从“double”到“float”截断
+e:\visual2017\learninggl\learninggl\multiplylights.cpp(234): warning C4305: “参数”: 从“double”到“float”截断
+e:\visual2017\learninggl\learninggl\multiplylights.cpp(241): warning C4305: “参数”: 从“double”到“float”截断
+e:\visual2017\learninggl\learninggl\multiplylights.cpp(242): warning C4305: “参数”: 从“double”到“float”截断
+e:\visual2017\learninggl\learninggl\multiplylights.cpp(249): warning C4305: “参数”: 从“double”到“float”截断
+e:\visual2017\learninggl\learninggl\multiplylights.cpp(250): warning C4305: “参数”: 从“double”到“float”截断
+e:\visual2017\learninggl\learninggl\multiplylights.cpp(257): warning C4305: “参数”: 从“double”到“float”截断
+e:\visual2017\learninggl\learninggl\multiplylights.cpp(258): warning C4305: “参数”: 从“double”到“float”截断
+e:\visual2017\learninggl\learninggl\multiplylights.cpp(266): warning C4305: “参数”: 从“double”到“float”截断
+e:\visual2017\learninggl\learninggl\multiplylights.cpp(267): warning C4305: “参数”: 从“double”到“float”截断
+e:\visual2017\learninggl\learninggl\multiplylights.cpp(369): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\visual2017\learninggl\learninggl\multiplylights.cpp(370): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\visual2017\learninggl\learninggl\multiplylights.cpp(374): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\visual2017\learninggl\learninggl\multiplylights.cpp(375): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\visual2017\learninggl\learninggl\multiplylights.cpp(377): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\visual2017\learninggl\learninggl\multiplylights.cpp(378): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\visual2017\learninggl\learninggl\multiplylights.cpp(387): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  learningGl.vcxproj -> E:\visual2017\learningGl\x64\Debug\learningGl.exe
